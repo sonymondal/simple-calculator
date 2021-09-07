@@ -1,2 +1,2 @@
 # A simple Python Calculator.
-# It can calculate additions, subtractions, multiplication and division
+# It can calculate additions, subtractions, multiplications and divisions
