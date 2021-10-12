@@ -4,19 +4,6 @@ print("\n\tPYTHON SIMPLE CALCULATOR")
 instraction = "Read the rules carefully:\n 1. A is for Addition.\n 2. B is for Subtraction.\n 3. C is for Multiplication.\n 4. D is for Division."
 print(instraction)
 
-# Addition function
-def Addition(x, y):
-    return x + y
-# Subtraction function
-def Subtraction(x, y):
-    return x - y
-#Multiplication function
-def Multiplication(x, y):
-    return x * y
-#Division function
-def Division(x, y):
-    return x / y
-
 # enter your option
 option = input("Choose a option: ")
 option = option.upper()
